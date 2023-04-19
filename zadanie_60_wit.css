@@ -1,0 +1,20 @@
+div{
+width:628px;
+background-color: #FFFFFF;
+
+}
+#blok1_tubaja:hover
+{
+    background-color: #0000FF;
+    font-size:18mm
+}
+#blok2_tubaja:hover
+{
+    background-color: #00FF00;
+    font-size:18mm
+}
+#blok3_tubaja:hover
+{
+    background-color: #FF0000;
+    font-size:18mm
+}

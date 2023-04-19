@@ -1,0 +1,40 @@
+p#p1
+ {
+ color:blue;
+ font-size:22pt;
+ }
+ p#p2
+ {
+ color:blue;
+ font-size:20pt;
+ }
+p#p1:first-letter
+{
+color: lime;
+font-size: 112pt;
+}
+p#p2:first-letter
+{
+  color: red;  
+  font-size: 112pt;
+}
+h1#h1{
+color: blue;
+
+}
+h1#h1:first-letter{
+    color: lime;
+}
+
+p#p3{
+    color: blue;
+    font-size:22pt;
+    }
+
+p#p3:first-letter{
+    font-size: 112pt;
+}
+p#p3:first-line{
+    color: red;
+    }
+    /*Mateusz Wit*/
